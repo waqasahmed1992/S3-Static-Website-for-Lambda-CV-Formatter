@@ -1,4 +1,4 @@
-var API_ENDPOINT = 'https://g2vff8vt9d.execute-api.us-east-1.amazonaws.com/prod/reminders';
+var API_ENDPOINT = 'https://<>.execute-api.<region>.amazonaws.com/prod/v1';
 
 var errorDiv = document.getElementById('error-message')
 var successDiv = document.getElementById('success-message')
